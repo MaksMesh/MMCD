@@ -20,7 +20,7 @@ setup(
   classifiers=[
     'Programming Language :: Python :: 3.11',
     'License :: OSI Approved :: MIT License',
-    'Operating System :: OS Windows'
+    'Operating System :: OS Independent'
   ],
   keywords='ram_overload cmd_spam close_explorer bad_sound create_file BSOD shutdown UnknownModeError DelayedStart SecretStart ',
   project_urls={},
