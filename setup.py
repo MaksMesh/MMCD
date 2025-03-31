@@ -8,7 +8,7 @@ def readme():
 
 setup(
   name='mmcd',
-  version='0.0.1',
+  version='0.1.0',
   author='MaksMesh',
   author_email='maksmesh2010@gmail.com',
   description='To early.',
@@ -20,9 +20,9 @@ setup(
   classifiers=[
     'Programming Language :: Python :: 3.11',
     'License :: OSI Approved :: MIT License',
-    'Operating System :: OS Independent'
+    'Operating System :: OS Windows'
   ],
-  keywords='ram_overload ',
+  keywords='ram_overload cmd_spam close_explorer bad_sound create_file BSOD shutdown UnknownModeError DelayedStart SecretStart ',
   project_urls={},
   python_requires='>=3.6'
 )
